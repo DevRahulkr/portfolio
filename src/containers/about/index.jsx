@@ -21,6 +21,10 @@ const About = () => {
       value: "5th cross road, Monekollala, Bengaluru-560067",
     },
     {
+      label: "Email",
+      value: "rahulmemech176@gmail.com",
+    },
+    {
       label: "Contact",
       value: "7406737526",
     },
